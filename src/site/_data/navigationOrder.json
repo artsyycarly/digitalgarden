@@ -1,10 +1,16 @@
 {
   "/": [
+    "- Welcome",
+    "Supply Lists"
+  ],
+  "/- Welcome": [
     "Link Tree",
     "Commissions",
-    "Gouache Supplies",
-    "Other Supplies",
-    "Pastel Supplies",
     "Contact"
+  ],
+  "/Supply Lists": [
+    "Pastel Supplies",
+    "Gouache Supplies",
+    "Other Supplies"
   ]
 }
