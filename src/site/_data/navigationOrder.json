@@ -1,11 +1,8 @@
 {
   "/": [
-    "- Welcome",
-    "Supply Lists"
-  ],
-  "/- Welcome": [
     "Link Tree",
     "Commissions",
+    "Supply Lists",
     "Contact"
   ],
   "/Supply Lists": [
