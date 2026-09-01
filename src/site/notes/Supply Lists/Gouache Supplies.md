@@ -38,7 +38,8 @@ Metallic Gouache (Set of 36) | [Amazon](https://amzn.to/4uuPyC4)
 11x15 (30 Sheets) | [Amazon](https://amzn.to/43f716h)
 
 #### Varnish
-**Jacquard Dorlands Wax** | [Amazon](https://amzn.to/4vpaA5C)](https://www.tiktok.com/t/ZT92s8dw5tqHy-5P4OZ/)
+**Jacquard Dorlands Wax** | [Amazon](https://amzn.to/3SkmY9u)
+
 
 
 
