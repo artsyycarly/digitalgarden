@@ -8,7 +8,7 @@
 *As an Amazon Associate, I earn from qualifying purchases.* 
 *If you make a purchase through any affiliate link on this page, I may earn a small commission at no additional cost to you! It helps support me and my art, and I truly appreciate it!*
 
-**I have personally used and tested many of the supplies listed below, and I only recommend products I actually have experience using.**
+**I have personally used and tested the supplies listed below, and I only recommend products I actually have experience using.**
 
 ***
 #### Paint
