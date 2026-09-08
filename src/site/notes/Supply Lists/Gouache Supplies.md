@@ -16,10 +16,6 @@ I have personally used and tested many of the supplies listed below, and I only 
 Traditional gouache can be re-activated with water after it dries. 
 Acrylic Gouache can not be re-activated with water once it has dried. 
 
-#### Palette
-**Masterson Aqua Pro Watercolor Palette** | [Amazon](https://amzn.to/4xkPLJj)
-32 paint wells (15.5" × 11.5" × 1.75")
-
 **Holbein - Artist Gouache (5ml Tubes)**
 18 Colors | [Amazon](https://amzn.to/4xe6IX1) 
 
@@ -33,10 +29,14 @@ Set of 24 colors | [Amazon](https://amzn.to/4x8GKnX)
 Set of 60 colors | [Amazon](https://amzn.to/4uoGSwW)
 Metallic Gouache (Set of 36) | [Amazon](https://amzn.to/4uuPyC4)
 
-#### Brushes
+#### Palette 🎨
+**Masterson Aqua Pro Watercolor Palette** | [Amazon](https://amzn.to/4xkPLJj)
+32 paint wells (15.5" × 11.5" × 1.75")
+
+#### Brushes 🖌
 **ARTIFY Detail Paint Brushes** | [Amazon](https://amzn.to/4awtcsm)
 
-#### Paper
+#### Paper 📄
 **Canson Watercolor Paper XL Series**
 9x12 (30 Sheets) | [Amazon](https://amzn.to/3QlTBm1)
 11x15 (30 Sheets) | [Amazon](https://amzn.to/43f716h)

@@ -11,7 +11,7 @@
 I have personally used and tested many of the supplies listed below, and I only recommend products I actually have experience using.
 
 ***
-#### Pencils
+#### Pencils ✏
 
 **STABILO - CarbOthello Pastel Pencils** 
 Tin of 36 | [Amazon](https://amzn.to/4oeslCn) 
@@ -22,7 +22,7 @@ Tin of 60 | [Amazon](https://amzn.to/4aehwKM)
 Tin of 36 |  [Amazon](https://amzn.to/3PO2pB0)
 Tin of 60 |  [Amazon](https://amzn.to/4uXjFmy)
 
-#### Pan Pastels & Pastel Sticks
+#### Pan Pastels & Pastel Sticks 🎨
 
 **PanPastels**
 20 Color Set (Pure Colors) | [Amazon](https://amzn.to/49F0yoS)
@@ -33,7 +33,7 @@ Set of 90 | [Amazon](https://amzn.to/43R01N3)
 Set of 60 | [Amazon](https://amzn.to/49HPCqm)
 	These are an absolute dream to work with! They're nice and smooth, and the colors are so vibrant!
 
-#### Paper
+#### Paper 📄
 **Pastelmat Paper Pads - 9½" x 12" *(12 sheets)***
 Palette No. 1 | [Amazon](https://amzn.to/3RNzFcc)
 	*(Buttercup, Maize, Light Gray, Dark Gray)*
@@ -46,7 +46,7 @@ Palette No. 5 | [Amazon](https://amzn.to/3PO6Aga)
 Palette No. 7 | [Amazon](https://amzn.to/4e8g6ms)
 	*(Red, Sand, Beige, Dark Gray)*
 
-#### Blending Tools
+#### Blending Tools 
 **Sofft Tools**
 Knives & Covers | [Amazon](https://amzn.to/3QpQUzR)
 Cover Refill Pack | [Amazon](https://amzn.to/4uV8JpC)

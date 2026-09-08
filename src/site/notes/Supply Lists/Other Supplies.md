@@ -11,9 +11,9 @@ I have personally used and tested many of the supplies listed below, and I only 
 
 ***
 
-#### Studio Supplies & Storage
+#### Studio Supplies & Storage 🖨
 
-**My Printer**
+**My Printer** 
 Epson EcoTank ET-3850 | [Amazon](https://amzn.to/4evLviX)
 
 **Pencil Storage**
@@ -23,7 +23,7 @@ Epson EcoTank ET-3850 | [Amazon](https://amzn.to/4evLviX)
 12x17 Box | [Amazon](https://amzn.to/4fvc3D4)
 	I keep all of my smaller work stored in here between sessions. 
 
-#### Filming & Photography Supplies
+#### Filming & Photography Supplies 📷
 **My Microphone**
 Hollyland Lark A1 Wireless Microphone | [Amazon](https://amzn.to/4dULSEC)
 
