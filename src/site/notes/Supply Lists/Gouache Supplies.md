@@ -13,12 +13,12 @@
 ***
 #### Paint
 **Holbein - Artist Gouache (5ml Tubes)**
-18 Colors | [Amazon](https://amzn.to/46iq80H) 
+<font color="#9fde97">18 Colors</font> | [Amazon](https://amzn.to/46iq80H) 
 
 **MEEDEN Gouache (12ml Tubes)**
-48 Colors | [Amazon](https://amzn.to/4r3MbSk) 
-24 Colors | [Amazon](https://amzn.to/4ij7CN1) 
-12 Colors | [Amazon](https://amzn.to/4drhEbn) 
+<font color="#9fde97">48 Colors </font>| [Amazon](https://amzn.to/4r3MbSk) 
+<font color="#9fde97">24 Colors </font>| [Amazon](https://amzn.to/4ij7CN1) 
+<font color="#9fde97">12 Colors</font> | [Amazon](https://amzn.to/4drhEbn) 
 
 #### Palette 🎨
 **Masterson Aqua Pro Watercolor Palette** | [Amazon](https://amzn.to/4ymAnwU) 
@@ -26,11 +26,12 @@
 
 #### Brushes 🖌
 **ARTIFY Detail Paint Brushes** | [Amazon](https://amzn.to/4xKiTuq) 
+**Brush Washing Bucket** | [Amazon](https://amzn.to/3Vj6cbA)
 
 #### Paper 📄
 **Canson Watercolor Paper XL Series**
-9x12 (30 Sheets) | [Amazon](https://amzn.to/4xFB04F) 
-11x15 (30 Sheets) | [Amazon](https://amzn.to/4xz3Lzr) 
+<font color="#9fde97">9x12 (30 Sheets)</font> | [Amazon](https://amzn.to/4xFB04F) 
+<font color="#9fde97">11x15 (30 Sheets)</font> | [Amazon](https://amzn.to/4xz3Lzr) 
 
 #### Varnish
 **Jacquard Dorlands Wax** | [Amazon](https://amzn.to/3Vj14US) 

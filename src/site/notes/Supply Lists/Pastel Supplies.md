@@ -11,51 +11,49 @@
 **I have personally used and tested many of the supplies listed below, and I only recommend products I actually have experience using.**
 ***
 #### Pencils ✏
-
 **STABILO - CarbOthello Pastel Pencils** 
-Tin of 36 | [Amazon](https://amzn.to/4gJquUd)
-Tin of 60 | [Amazon](https://amzn.to/4iTEX12)
+<font color="#9fde97">Tin of 36</font> | [Amazon](https://amzn.to/4gJquUd)
+<font color="#9fde97">Tin of 60</font> | [Amazon](https://amzn.to/4iTEX12)
 	My very first set was the Tin of 36 — I think it's a great size set for beginners on a budget. You get a good variety of colors, without having too many that may overwhelm you! 
 
 **Faber-Castell - Pitt Pastel Pencils** 
-Tin of 36 |  [Amazon](https://amzn.to/4r2lIVj)
-Tin of 60 |  [Amazon](https://amzn.to/3SE6Vn4)
+<font color="#9fde97">Tin of 36</font> |  [Amazon](https://amzn.to/4r2lIVj)
+<font color="#9fde97">Tin of 60 </font>|  [Amazon](https://amzn.to/3SE6Vn4)
 
 #### Pan Pastels & Pastel Sticks 🎨
-
 **PanPastels**
-30 Color Set (Pure Colors) | [Amazon](https://amzn.to/4gMM0pC)
+<font color="#9fde97">30 Color Set</font> | [Amazon](https://amzn.to/4gMM0pC)
 	I use these for my under paintings. This kit is a bit pricey, but it has been the best investment I have made for my pastel work! It has greatly helped extend the life of my pencils, and it helps speed the process up a bit!
 	I'm still using my first set of these almost 5 years later! 
 	(This set comes with some sofft tools and sponges as well)
 
 **Rembrandt Soft Pastels - General Selection**
-Set of 90 | [Amazon](https://amzn.to/4ifgPG5)
-Set of 60 | [Amazon](https://amzn.to/4h0ykaU)
+<font color="#9fde97">Set of 90</font> | [Amazon](https://amzn.to/4ifgPG5)
+<font color="#9fde97">Set of 60</font> | [Amazon](https://amzn.to/4h0ykaU)
 	These are an absolute dream to work with! They're nice and smooth, and the colors are so vibrant!
 
 #### Paper 📄
 **Pastelmat Paper Pads - 9½" x 12" *(12 sheets)***
-Palette No. 1 | [Amazon](https://amzn.to/4r1vd6V)
-	*(Buttercup, Maize, Light Gray, Dark Gray)*
-Palette No. 2 | [Amazon](https://amzn.to/4ysSeCp)
-	*(Brown, Sienna, White & Black)*
-Palette No. 4 | [Amazon](https://amzn.to/4dqKOr4)
-	*(Wine, Sand, Light Blue, Dark Blue)*
-Palette No. 5 | [Amazon](https://amzn.to/4yvlh8w)
-	*(Dark Blue, White, Light Green, Dark Green)*
-Palette No. 7 | [Amazon](https://amzn.to/4r2bp3y)
-	*(Red, Sand, Beige, Dark Gray)*
+<font color="#9fde97">Palette No. 1</font> | [Amazon](https://amzn.to/4r1vd6V)
+	Buttercup, Maize, Light Gray, Dark Gray
+<font color="#9fde97">Palette No. 2</font> | [Amazon](https://amzn.to/4ysSeCp)
+	Brown, Sienna, White & Black
+<font color="#9fde97">Palette No. 4</font> | [Amazon](https://amzn.to/4dqKOr4)
+	Wine, Sand, Light Blue, Dark Blue
+<font color="#9fde97">Palette No. 5</font> | [Amazon](https://amzn.to/4yvlh8w)
+	Dark Blue, White, Light Green, Dark Green
+<font color="#9fde97">Palette No. 7</font> | [Amazon](https://amzn.to/4r2bp3y)
+	Red, Sand, Beige, Dark Gray
 
 #### Blending Tools 
 **Sofft Tools**
-Knives & Covers | [Amazon](https://amzn.to/4ik7nRS)
-Cover Refill Pack | [Amazon](https://amzn.to/3UwC5gN)
-Mixed Sponges | [Amazon](https://amzn.to/4iTchW3)
+<font color="#9fde97">Knives & Covers </font>| [Amazon](https://amzn.to/4ik7nRS)
+<font color="#9fde97">Cover Refill Pack </font>| [Amazon](https://amzn.to/3UwC5gN)
+<font color="#9fde97">Mixed Sponges</font> | [Amazon](https://amzn.to/4iTchW3)
 	These are what I use with my Pan Pastels 
 
 **Precision Tip Q Tips**
-500 pcs | [Amazon](https://amzn.to/4xJYxBz)
+<font color="#9fde97">500 pcs</font> | [Amazon](https://amzn.to/4xJYxBz)
 	I go through a TON of these. They're perfect for blending and smudging the pastels! Honestly a must have! 
 
 **Color Shaper Tools** | [Amazon](https://amzn.to/3ULvUp0)
