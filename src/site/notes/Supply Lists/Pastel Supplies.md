@@ -7,10 +7,8 @@
 
 *As an Amazon Associate, I earn from qualifying purchases.* 
 *If you make a purchase through any affiliate link on this page, I may earn a small commission at no additional cost to you! It helps support me and my art, and I truly appreciate it!*
-
-**I have personally used and tested many of the supplies listed below, and I only recommend products I actually have experience using.**
 ***
-#### Pencils ✏
+#### Pastel Pencils ✏
 **STABILO - CarbOthello Pastel Pencils** 
 <font color="#9fde97">Tin of 36</font> | [Amazon](https://amzn.to/4gJquUd)
 <font color="#9fde97">Tin of 60</font> | [Amazon](https://amzn.to/4iTEX12)

@@ -2,17 +2,18 @@
 {"dg-publish":true,"permalink":"/link-tree/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-**Commissions and Originals**
-[Commission Application Form](https://docs.google.com/forms/d/e/1FAIpQLSdYDgzUQr7QwN0OPQmZR3FM24rQC8MIU2rS7aFyJJ86zYA7jw/viewform)
-	Interested in a custom piece? Fill out my commission form and I will get back with you within 48 hours!
+**Commissions**
+[Etsy](https://www.etsy.com/shop/ArtsyyCarly)
+	 Interested in a custom piece? Head over to my new Etsy shop for easy commission ordering!
 
 [eBay - ACEOs & Originals](https://www.ebay.com/usr/artsyycarly)
-	Original work for sale here
+	Finished work ready to buy
 
 **Supplies I Use**
 [[Supply Lists/Pastel Supplies\|Pastel Supplies]]
 [[Supply Lists/Gouache Supplies\|Gouache Supplies]]
-[[Supply Lists/Other Supplies\|Other Supplies]]
+[[Supply Lists/Markers & Graphite Pencils\|Markers & Graphite Pencils]]
+[[Supply Lists/Studio Stuff\|Studio Stuff]]]
 
 **Social Media**
 [TikTok](https://www.tiktok.com/@artsyycarly)
