@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/supplies-i-use/","dg-note-properties":{}}
 ---
 
+
 > [!info]- As an Amazon Associate, I earn from qualifying purchases. *Read more:*
 If you make a purchase through any affiliate link on this page, I may earn a small commission at no additional cost to you! 
 
 **Jump To Section**
-|  [[Supplies I Use#Acrylic Marker Art Supplies\|Acrylic Marker]]  |  [[Supplies I Use#Gouache Art Supplies\|Gouache]]  |  [[Supplies I Use#Graphite Art Supplies\|Graphite]]  |  [[Supplies I Use#Pastel Pencil Art Supplies\|Pastel Pencil]]  |
-|  [[Supplies I Use#Sketchbooks & Paper\|Sketchbooks & Paper]]  |  [[Supplies I Use#Storage, Furniture, Tools & Equipment\|Storage, Furniture, Tools & Equipment]]  |
+[[Supplies I Use#Acrylic Marker Art Supplies\|Acrylic Marker]]  |  [[Supplies I Use#Gouache Art Supplies\|Gouache]]  |  [[Supplies I Use#Graphite Art Supplies\|Graphite]]  |  [[Supplies I Use#Pastel Pencil Art Supplies\|Pastel Pencil]]
+[[Supplies I Use#Sketchbooks & Paper\|Sketchbooks & Paper]]  |  [[Supplies I Use#Storage, Furniture, Tools & Equipment\|Storage, Furniture, Tools & Equipment]]
 
 ---
 # Acrylic Marker Art Supplies 

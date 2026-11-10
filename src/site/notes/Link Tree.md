@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/link-tree/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-**Supplies I Use**: [[Supply Lists/Supplies\|All Listed Here]]
+**Supplies I Use**: [[Supplies I Use\|All Listed Here]]
 
 **Commissions**
 [Etsy](https://www.etsy.com/shop/ArtsyyCarly)
